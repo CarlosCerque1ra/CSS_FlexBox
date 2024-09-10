@@ -50,5 +50,5 @@ main#album{
 }
 section .coluna{
     flex: 1 1 100%;
-    padding: 0px 5px;
+    padding: 0px;
 }
