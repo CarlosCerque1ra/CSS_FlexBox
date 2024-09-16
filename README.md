@@ -1,4 +1,4 @@
-# *FlexBox
+# FlexBox
 Propriedades principais do Flexbox:
 <br>
 1. **Propriedades do contêiner (container flex)**
